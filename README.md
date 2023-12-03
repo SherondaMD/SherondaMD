@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SherondaMD
-- 👀 I’m interested in Front-end Development with the intent to move to Full Stack!
-- 🌱 I’m currently learning Python and SQL.
-- 💞️ I’m looking to collaborate on any project that would be willing to give a Junior Developer a chance!
+- 👀 I’m interested in Front-end Development with the intent to move to Full Stack.
+- 🌱 I’m currently learning how to be a Service Now Developer. 
+- 💞️ I’m looking to collaborate on any project that would be willing to give a Junior Developer a chance! I'm willing to learn new things in order to get the job done!
 - 📫 How to reach me, via LinkedIn, here on GH or by email @ sheronda.mckee@gmail.com
 
 <!---
